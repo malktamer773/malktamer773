@@ -1,9 +1,8 @@
 
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to  Malak Tamer's profile!
+  Welcome to Malak Tamer's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,11 +13,11 @@
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student in Minia University.
 - 💬 Ask me about my experience with c++ , Problem Solving , html, css , JavaScript.
-  
+
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/malak-tamer-922b17356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Malak Tamer style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href=""><img src="https://img.shields.io/badge/Malak Tamer?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Malak Tamer?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 Facebook
@@ -32,6 +31,15 @@ Facebook
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MYSQL%20-05122A?style=flat&logo=MYSQL)&nbsp;
+
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malak Tamer&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=Malak Tamer&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Malak Tamer&style=for-the-badge">
+</a>
 
 
 
