@@ -14,13 +14,13 @@
 - 🏢 I'm a Software Engineer.
 - 👩‍💻 CS student at Minia University.
 - 💬 Ask me about my experience with: C++, Problem Solving, HTML, CSS, JavaScript.
-- ⚡ Fun Fact: I'm a coffee enthusiast — my perfect day starts and ends with a cup of coffee!
+- ⚡ Fun Fact: Dancing through life’s for-loops
 
 ---
 
 ### 🔗 Connect with Me:
 
-<a href="https://www.linkedin.com/in/malak-tamer-922b17356">
+<a href="https://www.linkedin.com/in/malak-tamer-922b17356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/-Malak%20Tamer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
