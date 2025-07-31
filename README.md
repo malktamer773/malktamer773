@@ -41,11 +41,9 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malak-tamer&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-  
-  <a href="https://komarev.com/ghpvc/?username=malak-tamer&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=malak-tamer&style=for-the-badge" alt="Profile views"/>
-  </a>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malktamer773&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=malktamer773&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=malktamer773&style=for-the-badge" alt="Profile views"/>
+</a>
 
